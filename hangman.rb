@@ -1,3 +1,4 @@
+#Hangman
 class MagicWord
 
         def initialize word
